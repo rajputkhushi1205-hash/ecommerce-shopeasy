@@ -6,8 +6,8 @@ define('DB_PASS', '');
 define('DB_NAME', 'ecommerce_db');
 
 // ── Razorpay Configuration ─────────────────────────────────
-define('RAZORPAY_KEY_ID', 'rzp_test_Sqt3jJYHY5tTQO');         // Replace with your key
-define('RAZORPAY_KEY_SECRET', 'CjDpfTsYn4a66cPIPII6bbw6');           // Replace with your secret
+define('RAZORPAY_KEY_ID', 'rzp_test_YOUR_KEY_ID');         // Replace with your key
+define('RAZORPAY_KEY_SECRET', 'YOUR_KEY_SECRET6');           // Replace with your secret
 
 // ── Site Configuration ─────────────────────────────────────
 define('SITE_NAME', 'ShopEasy');
